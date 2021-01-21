@@ -1,4 +1,4 @@
-import { Dimensions } from 'react-native';
+import {Dimensions} from 'react-native';
 const { width } = Dimensions.get('window');
 export const FONT_10 = width * 0.02666666666666667;
 export const FONT_11 = width * 0.02933333333333333;
